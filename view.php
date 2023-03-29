@@ -8,7 +8,6 @@ $result = $conn->query($sql);
 
 ?>
 
-<!DOCTYPE html>
 
 <html>
 
